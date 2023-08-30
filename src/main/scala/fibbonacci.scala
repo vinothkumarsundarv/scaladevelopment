@@ -7,6 +7,7 @@ object fibbonacci {
     var num2 = 1;
 
     var sum : Int = num1+num2
+    println("0");
     var i = 0;
 
       while (sum <= limit) {

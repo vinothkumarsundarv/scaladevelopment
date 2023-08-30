@@ -11,10 +11,5 @@ object assignment {
     }
       cnt = cnt+ 1;
     }
-
-
-
-
-
   }
 }
